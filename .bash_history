@@ -186,3 +186,19 @@ git add .
 git commit -m "Second Commit"
 git push -u origin master
 git pull origin master
+sudo apt-get install git
+sudo apt-get update
+git --version
+git config --global user.name "manjunath"
+git config --global user.email "manjunathk165.kmr@gmail.com"
+mkdir mydevops
+cd .
+git init
+git status
+git add .
+git add mydevops
+touch demo
+git add .
+git status
+git commit -m "demo is added"
+git diff
