@@ -279,3 +279,15 @@ git status
 git push origin master
 pwd
 git push origin master
+git --version
+touch oracle1
+touch oracle 2
+touch oracle 3
+git add .
+git status
+mkdir myoracle
+cd .
+git commit "new file is added"
+git commit -m "files are added"
+git remote add origin 
+git push origin master
