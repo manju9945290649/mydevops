@@ -234,3 +234,48 @@ git commit -amend
 git commit --amend
 git push origin
 git push --set-upstream origin master
+clear
+git clone git remote add origin https://github.com/manju9945290649/mydevops.git
+git init
+touch demo6
+touch demo7
+touch demo8
+touch demo9
+git status
+git add.
+git status
+git add .
+git status
+git commit set-url origin https://github.com/manju9945290649/mydevops.git
+git log
+git show HEAD
+git --version
+ls
+cd mydevops/
+
+git status
+git remote -v
+git remote add origin https://github.com/manju9945290649/mydevops.git
+git remote -v
+git commit -m "this is the firt push"
+git pull origin master
+git pull origin
+git push origin master
+git pull origin master
+git status
+git add .
+git status
+is -on
+ls -n
+ls -all
+touch sample.txt
+git status
+git add .
+ls
+sudo nano samole.txt
+git status
+git commit -m "new file is added"
+git status
+git push origin master
+pwd
+git push origin master
