@@ -202,3 +202,35 @@ git add .
 git status
 git commit -m "demo is added"
 git diff
+clear
+git commit -a -m "demo file is modified"
+git rm -f test
+git status
+gedit .gitignore test1
+sudo apt install gedit
+gedit.gitignore test1
+git log
+git commit -amend
+git commit -a
+git commit -amend
+git commit --amend
+git --amend
+git commit --amend
+sudo apt-get install git
+touch demo1
+clear
+sudo apt-get install git
+git init
+touch demo2
+touch demo3
+touch demo4
+git status
+git add .
+git status
+git remote add origin git remote add origin https://github.com/manju9945290649/mydevops.git
+git push -u origin master 
+manju9945290649
+git commit -amend
+git commit --amend
+git push origin
+git push --set-upstream origin master
